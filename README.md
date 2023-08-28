@@ -1,4 +1,17 @@
 # Lab
+## Primeros pasos
+Necesitas tener instalado docker en tu pc, desde la consola debes correr: 
+
+`docker pull xlmriosx/lab-adr `
+
+Luego debes correr la imagen:
+
+`docker run IMAGE_ID` Pd. Podes mirar el IMAGE_ID con `docker images`
+
+Ingresar en el contenedor:
+
+`docker exec -it CONTAINER_ID sh`
+
 ## Herramientas A 
 
 ### Comandos de Sistema
