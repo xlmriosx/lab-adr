@@ -1,4 +1,4 @@
-# Lab
+# Lab-AdR
 ## Primeros pasos
 Necesitas tener instalado docker en tu pc, desde la consola debes correr: 
 
