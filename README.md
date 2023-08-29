@@ -1,5 +1,9 @@
 # Lab-AdR
+
 [![CI](https://github.com/xlmriosx/lab-adr/actions/workflows/docker-image.yml/badge.svg)](https://github.com/xlmriosx/lab-adr/actions/workflows/docker-image.yml)
+
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://hub.docker.com/r/xlmriosx/lab-adr/tags)
+
 ## Primeros pasos
 Necesitas tener instalado docker en tu pc, desde la consola debes correr: 
 
